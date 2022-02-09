@@ -1,0 +1,24 @@
+{
+  "name": "zhangziheng228.github.io",
+  "version": "1.0.0",
+  "description": "zhangziheng228 blog",
+  "main": "index.js",
+  "devDependencies": {
+    "vitepress": "^0.21.6"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangziheng228/zhangziheng228.github.io.git"
+  },
+  "author": "zhangziheng228",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangziheng228/zhangziheng228.github.io/issues"
+  },
+  "homepage": "https://github.com/zhangziheng228/zhangziheng228.github.io#readme"
+}
